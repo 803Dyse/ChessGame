@@ -1,3 +1,7 @@
+package ChessLayer;
+
+import BoardLayer.Position;
+
 
 /**
  *

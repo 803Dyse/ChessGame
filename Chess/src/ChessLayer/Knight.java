@@ -1,8 +1,10 @@
+package ChessLayer;
+
 
 /**
  *
  * @author Bilo Alejandro Martins Gonzalez
  */
-public class Queen extends ChessPiece{
+public class Knight extends ChessPiece{
     
 }
